@@ -967,6 +967,7 @@
                 param.append('type', this.rankValue.key);
                 param.append('reverse', this.reverse);
                 this.$api.Filter.Rank(param).then(res => {
+                    console.log(res)
                     this.data = res.data.rankedObjectList;
                 })
             },

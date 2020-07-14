@@ -47,74 +47,74 @@
   const columns1 = [{
       title: '报告期',
       dataIndex: 'title',
-      width: '10%',
+      width: '20%',
       align: 'center'
     },
     {
       title: '2019年报',
       dataIndex: '_2019',
-      width: '18%',
+      width: '16%',
       align: 'center'
     },
     {
       title: '2018年报',
       dataIndex: '_2018',
-      width: '18%',
+      width: '16%',
       align: 'center'
     },
     {
       title: '2017年报',
       dataIndex: '_2017',
-      width: '18%',
+      width: '16%',
       align: 'center'
     },
     {
       title: '2016年报',
       dataIndex: '_2016',
-      width: '18%',
+      width: '16%',
       align: 'center'
     },
     {
       title: '2015年报',
       dataIndex: '_2015',
-      width: '18%',
+      width: '16%',
       align: 'center'
     },
   ];
   const columns2 = [{
       title: '报告期',
       dataIndex: 'title',
-      width: '10%',
+      width: '20%',
       align: 'center'
     },
     {
       title: '2014年报',
       dataIndex: '_2014',
-      width: '18%',
+      width: '16%',
       align: 'center'
     },
     {
       title: '2013年报',
       dataIndex: '_2013',
-      width: '18%',
+      width: '16%',
       align: 'center'
     },
     {
       title: '2012年报',
       dataIndex: '_2012',
-      width: '18%',
+      width: '16%',
       align: 'center'
     },
     {
       title: '2011年报',
       dataIndex: '_2011',
-      width: '18%',
+      width: '16%',
       align: 'center'
     },
     {
       title: '2010年报',
       dataIndex: '_2010',
-      width: '18%',
+      width: '16%',
       align: 'center'
     },
   ];
